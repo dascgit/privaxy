@@ -46,6 +46,7 @@ Privaxy is also way more capable than DNS-based blockers as it is able to operat
   - Able to filter thousands of requests per second on a small machine.
 
 ## Installation
+ Nothing here
 
 ### Using a pre-built binary
 
